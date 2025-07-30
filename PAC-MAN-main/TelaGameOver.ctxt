@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TelaGameOver
+comment1.params=
+comment1.target=TelaGameOver()
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=Placar\ getPlacar()
+numComments=4

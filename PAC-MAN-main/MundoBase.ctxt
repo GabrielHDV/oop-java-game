@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MundoBase
+comment1.params=largura\ altura
+comment1.target=MundoBase(int,\ int)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ MundoBase.\r\n
+comment2.params=
+comment2.target=void\ started()
+comment2.text=\r\n\ M\u00E9todo\ respons\u00E1vel\ por\ tocar\ a\ m\u00FAsica\ tema\ do\ jogo.\r\n
+comment3.params=
+comment3.target=void\ stopped()
+comment3.text=\r\n\ M\u00E9todo\ respons\u00E1vel\ por\ parar\ de\ tocar\ a\ m\u00FAsica\ tema\ do\ jogo.\r\n
+comment4.params=
+comment4.target=Placar\ getPlacar()
+comment5.params=inicioX\ inicioY\ linhas\ colunas\ espacoEntreBolas
+comment5.target=void\ criarLabirinto(int,\ int,\ int,\ int,\ int)
+comment5.text=\r\n\ M\u00E9todo\ para\ criar\ um\ labirinto\ de\ bolas.\r\n
+comment6.params=
+comment6.target=void\ redimensionarImagemDeFundo()
+numComments=7

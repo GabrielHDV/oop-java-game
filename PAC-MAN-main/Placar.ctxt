@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Placar
+comment0.text=\ \ \r\n\ Classe\ Placar\:\ Gerencia\ a\ pontua\u00E7\u00E3o,\ as\ vidas\ e\ o\ tempo\ de\ jogo.\ \ \r\n
+comment1.params=
+comment1.target=Placar()
+comment2.params=
+comment2.target=void\ atualizarImagem()
+comment2.text=\ \ \r\n\ Atualiza\ a\ imagem\ do\ placar\ exibida\ na\ tela.\ \ \r\n
+comment3.params=pontos
+comment3.target=void\ adicionarPontos(int)
+comment3.text=\ \ \r\n\ Adiciona\ pontos\ ao\ placar.\ \ \r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\ \ \r\n\ Atualiza\ o\ tempo\ de\ jogo.\ \ \r\n
+numComments=5
