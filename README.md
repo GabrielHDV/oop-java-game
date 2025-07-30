@@ -1,8 +1,6 @@
 # 🎮 Desenvolvimento de Jogos com Programação Orientada a Objetos (BlueJ)
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)  
-[![BlueJ](https://img.shields.io/badge/BlueJ-1E90FF?style=for-the-badge&logo=bluej&logoColor=white)](https://bluej.org/)  
-[![POO](https://img.shields.io/badge/POO-Object-Oriented-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Object-oriented_programming)  
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)  [![BlueJ](https://img.shields.io/badge/BlueJ-1E90FF?style=for-the-badge&logo=bluej&logoColor=white)](https://bluej.org/)  [![POO](https://img.shields.io/badge/POO-Object-Oriented-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Object-oriented_programming)  
 
 ---
 
